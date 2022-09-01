@@ -11,9 +11,9 @@
   <h1>Assignments</h1>
 </header>
 <ul>
-  <li><a href="challenges/event.php">event</a></li>
-  <li><a href="challenges/flip.php">flip</a></li>
-  <li><a href="challenges/fizz-buzz.php">fizz-buzz</a></li>
+  <li><a href="../asgn00/event.php">event</a></li>
+  <li><a href="../asgn00/flip.php">flip</a></li>
+  <li><a href="../asgn00/fizz-buzz.php">fizz-buzz</a></li>
 </ul>
 </body>
 </html>
